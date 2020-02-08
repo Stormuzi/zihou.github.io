@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://blog.zihou.site/"/>
+  <updated>2020-02-08T11:49:23.944Z</updated>
+  <id>https://blog.zihou.site/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>imageTest</title>
+    <link href="https://blog.zihou.site/2020/02/08/imageTest/"/>
+    <id>https://blog.zihou.site/2020/02/08/imageTest/</id>
+    <published>2020-02-08T10:10:46.000Z</published>
+    <updated>2020-02-08T11:49:23.944Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;/2020/02/08/imageTest/%E7%99%BD%E8%89%B2%E7%9B%B8%E8%96%84.png&quot; alt=&quot;白色相薄&quot;&gt;&lt;/p&gt;
+&lt;p&gt;suibain xiexie
+        
+      
+    
+    </summary>
+    
+    
+      <category term="web前端" scheme="https://blog.zihou.site/categories/web%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="jQuery" scheme="https://blog.zihou.site/tags/jQuery/"/>
+    
+      <category term="表格" scheme="https://blog.zihou.site/tags/%E8%A1%A8%E6%A0%BC/"/>
+    
+      <category term="表单验证" scheme="https://blog.zihou.site/tags/%E8%A1%A8%E5%8D%95%E9%AA%8C%E8%AF%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://blog.zihou.site/2020/02/08/hello-world/"/>
+    <id>https://blog.zihou.site/2020/02/08/hello-world/</id>
+    <published>2020-02-08T09:36:53.265Z</published>
+    <updated>2020-02-08T09:36:53.265Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
