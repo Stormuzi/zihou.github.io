@@ -8,15 +8,15 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 ### Create a new post
 
 ``` bash
-$ hexo new "My New Post"
+$ hexo new "My New Post"sss
 ```
 
 More info: [Writing](https://hexo.io/docs/writing.html)
 
-### Run server
+### Run serveraaa
 
 ``` bash
-$ hexo server
+$ hexo serversss
 ```
 
 More info: [Server](https://hexo.io/docs/server.html)
@@ -31,7 +31,7 @@ More info: [Generating](https://hexo.io/docs/generating.html)
 
 ### Deploy to remote sites
 
-``` bash
+``` bashsss
 $ hexo deploy
 ```
 

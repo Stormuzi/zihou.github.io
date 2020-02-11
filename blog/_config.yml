@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 可以不再失眠吗
+title: 将登太行雪满山的博客
 subtitle: ''
 description: ''
 keywords:
@@ -102,8 +102,10 @@ feed:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://blog.zihou.site/
+url: https://wwww.zihou.site
 root: /
+
+
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -120,7 +122,9 @@ theme: hexo-theme-ayer
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:Stormuzi/zihou.github.io.git
+  repo:
+    github: git@github.com:Stormuzi/zihou.github.io.git
+    gitee: git@45.77.148.138:/home/git/sample.git
   branch: master
   message: blog update
 
